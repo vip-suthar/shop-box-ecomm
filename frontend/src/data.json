@@ -1,0 +1,17 @@
+{
+    "cartData": {
+        "cartItems": [],
+        "cartSummary": null,
+        "shipping": null
+    },
+    "userInfo": null,
+    "homeData": {
+        "headerCorousel": [],
+        "featuresList": [],
+        "offersList": [],
+        "categoriesList": [],
+        "trndProducts": [],
+        "recmProducts": []
+    },
+    "productDetails": null
+}
